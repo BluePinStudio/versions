@@ -1,9 +1,4 @@
 {
-    "pixel_fixel_android": {
-      "version": "1.0.30"
-    },
-    "pixel_fixel_apple": {
-      "version": "1.0.31"
-    }
-  }
-  
+	"pixel_fixel_android": "1.0.30",
+	"pixel_fixel_apple": "1.0.30"
+}
