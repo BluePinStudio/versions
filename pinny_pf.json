@@ -1,5 +1,5 @@
 {
-    "Count": 13,
+    "Count": 14,
     "0": {
       "text": "Have you heard of [color=yellow]Charles the Bee[/color]?! He's on Steam!",
       "url": "https://store.steampowered.com/app/2485090/Charles_the_Bee/"
@@ -37,20 +37,24 @@
       "url": null
     },
     "9": {
-      "text": "Pixel Fixel is available on Google Play store!",
-      "url": null
+      "text": "Pixel Fixel is available on [color=yellow]Google Play store[/color]!",
+      "url": "https://play.google.com/store/apps/details?id=com.bluepinstudio.pixelfixel"
     },
     "10": {
-      "text": "Pixel Fixel is available on Apple app store!",
-      "url": null
+      "text": "Pixel Fixel is available on [color=yellow]Apple app store[/color]!",
+      "url": "https://apps.apple.com/ca/app/pixel-fixel/id6504993028"
     },
     "11": {
       "text": "I was drawn by amazing digital artist Thlurp!",
       "url": null
     },
     "12": {
-      "text": "Join the discord to chat with Pixel Fixel fans and the developer :)",
-      "url": null
+      "text": "Join the [color=yellow]discord[/color] to chat with Pixel Fixel fans and the developer :)",
+      "url": "https://discord.gg/GtcKH3V6GZ"
     }
+    "13": {
+        "text": "Thank you very much for playing!",
+        "url": null
+      }    
   }
   
