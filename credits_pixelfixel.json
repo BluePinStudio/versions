@@ -2,7 +2,7 @@
     "c2array": true,
     "size": [
         1,
-        85,
+        105,
         1
     ],
     "data": [
@@ -263,13 +263,10 @@
                 "Fatih"
             ],
             [
-                "calm"
+                "Calm"
             ],
             [
                 "Funfey"
-            ],
-            [
-                "Yamabicco"
             ],
             [
                 "Yamabicco"
@@ -308,10 +305,22 @@
                 "Electricafe"
             ],
             [
-                "Kirill S"
+                "Kirill S."
             ],
             [
                 "Gwyndolyn"
+            ],
+            [
+                "Soup"
+            ],
+            [
+                "Etheriae"
+            ],
+            [
+                "Rain"
+            ],
+            [
+                "BethanyAngelstar"
             ]
         ]
     ]
