@@ -2,7 +2,7 @@
     "c2array": true,
     "size": [
         1,
-        107,
+        108,
         1
     ],
     "data": [
@@ -327,7 +327,10 @@
             ],
             [
                 "Grey Alien"
-            ]                                        
+            ],
+            [
+                "Doge Ronin"
+            ]                                                    
         ]
     ]
 }
